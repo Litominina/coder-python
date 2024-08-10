@@ -2,7 +2,7 @@
 
 - Imagina que estás escribiendo una novela 📖. A medida que avanzas, haces cambios, agregas capítulos, corriges errores... ¿Y si pudieras guardar instantáneas de tu novela en diferentes momentos, para poder volver atrás si te equivocas o quieres comparar versiones? ¡Eso es lo que hace Git!.
 
-# SOY UN CRACK
+# SOY UN CRACK.
 
 
 
